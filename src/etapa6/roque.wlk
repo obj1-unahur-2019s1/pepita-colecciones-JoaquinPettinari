@@ -5,6 +5,7 @@ import masAves.*
 object roque {
 	var pupilo
 	
+	
 	method tuPupiloEs(ave) { 
 		pupilo = ave
 	} 
